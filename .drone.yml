@@ -1,6 +1,6 @@
 ---
 kind: pipeline
-type: docker
+type: kubernetes
 name: w3c validate
 steps:
   - name: w3c validate
