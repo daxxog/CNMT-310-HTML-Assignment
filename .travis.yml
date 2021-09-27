@@ -1,3 +1,0 @@
-language: python
-script:
-    - w3c_validator index.html
